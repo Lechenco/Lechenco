@@ -1,6 +1,6 @@
 <img
   align="right"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechenco&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechenco&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=12&hide=jupyter%20notebook,c%23&card_width=400&custom_title=Linguagens%20mais%20usadas&stats_format=bytes&bg_color=00000000"
   alt="Github Stats"
 />
 
