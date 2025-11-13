@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Golang, C, Kotlin, Java, Python, Jupyter Notebook
+  🦄 Linguagens: Golang, C, Kotlin, Java, Python
 </p>
 
 <p align="left">
-  💼 Ferramentas: SpringBoot, MatLab
+  💼 Ferramentas: SpringBoot, MatLab, Jupyter Notebook
 </p>
 
 <p align="left">
